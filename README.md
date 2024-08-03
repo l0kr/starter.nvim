@@ -1,7 +1,7 @@
 # Starter.nvim
 Basic template for LazyVim plugin 💤
 
-Create new lua file in ~/.config/nvim/lua/plugins
+Create new lua file in `~/.config/nvim/lua/plugins`
 
 ```lua
 return {
