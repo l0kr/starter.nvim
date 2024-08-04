@@ -26,5 +26,5 @@ starter.nvim
        └── init.lua
 
 
-3 directories, 2 files
+3 directories, 1 file
 ```
