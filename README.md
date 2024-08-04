@@ -19,7 +19,7 @@ return {
 
 Intsead of just `lua/starter.lua` you can have `lua/starter/init.lua`
 
->⚠ Don't mix those two conventions, strcuture `lua/starter/starter.lua` does not work
+>⚠ Don't mix those two conventions, structure `lua/starter/starter.lua` does not work
 
 ```bash
 starter.nvim
