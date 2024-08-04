@@ -14,3 +14,17 @@ return {
     },
 }
 ```
+
+#### Alternative file structure / naming convention
+
+Intsead of just `lua/apm.lua` you can have `lua/apm/init.lua`
+
+```bash
+apm.nvim
+├── lua
+│   └── apm
+│       └── init.lua
+└── run.lua
+
+3 directories, 2 files
+```
