@@ -17,7 +17,7 @@ return {
 
 #### Alternative file structure / naming convention
 
-Intsead of just `lua/apm.lua` you can have `lua/apm/init.lua`
+Intsead of just `lua/apm.lua` you can have `lua/starter/init.lua`
 
 ```bash
 starter.nvim
